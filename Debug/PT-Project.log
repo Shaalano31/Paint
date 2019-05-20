@@ -1,0 +1,5 @@
+﻿  ApplicationManager.cpp
+e:\team_e4_khalid shaalan\team_e4\loadfiguresaction.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\team_e4_khalid shaalan\team_e4\applicationmanager.cpp(248): warning C4715: 'ApplicationManager::GetSelectedFigure': not all control paths return a value
+e:\team_e4_khalid shaalan\team_e4\applicationmanager.cpp(269): warning C4715: 'ApplicationManager::GetColoredSelectedFigure': not all control paths return a value
+  PT-Project.vcxproj -> E:\Team_E4_khalid shaalan\Team_E4\.\Debug\PT Project.exe
